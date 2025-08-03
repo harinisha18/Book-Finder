@@ -22,5 +22,3 @@ A clean and responsive web application that allows users to search for books usi
 
 ---
 
-## 📁 Folder Structure
-
